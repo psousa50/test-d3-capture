@@ -4,10 +4,68 @@
     "project_id": "8623bce8-ab04-473f-858d-464a3bdfd950",
     "feature_id": null,
     "started_at": 1772533763332,
-    "ended_at": null,
-    "status": "active"
+    "ended_at": 1772535736372,
+    "status": "completed"
   },
-  "chunks": [],
+  "chunks": [
+    {
+      "id": "37c35f48-6b6e-41f9-98b0-634bc9988742",
+      "meeting_id": "3dc93a40-53f1-4ed6-a5f9-1dce2d1e251c",
+      "text": "Let's create a high level diagram for this project.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772534745285
+    },
+    {
+      "id": "0c7fa823-3eda-49b5-bc74-b621f5b4bd72",
+      "meeting_id": "3dc93a40-53f1-4ed6-a5f9-1dce2d1e251c",
+      "text": "Actually, let's use",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772534791077
+    },
+    {
+      "id": "b3b7d3ab-d679-433d-a1b2-84bf2c2c50c4",
+      "meeting_id": "3dc93a40-53f1-4ed6-a5f9-1dce2d1e251c",
+      "text": "let's use",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772534792361
+    },
+    {
+      "id": "95299063-29d0-4af9-91c3-9c3cc5fe134f",
+      "meeting_id": "3dc93a40-53f1-4ed6-a5f9-1dce2d1e251c",
+      "text": "And this give a light",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772534803152
+    },
+    {
+      "id": "60b22351-84ec-4c96-8d8e-18a1e160c1c1",
+      "meeting_id": "3dc93a40-53f1-4ed6-a5f9-1dce2d1e251c",
+      "text": "database.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772534804135
+    },
+    {
+      "id": "0fe08cda-412f-4192-a266-efc46ee2cee4",
+      "meeting_id": "3dc93a40-53f1-4ed6-a5f9-1dce2d1e251c",
+      "text": "SQLite.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772534807467
+    }
+  ],
   "documents": [],
-  "guidance": []
+  "guidance": [
+    {
+      "id": "5e7a70bf-8df8-4eb7-a509-b7bf0f0a9619",
+      "type": "suggestion",
+      "content": "Create a high-level diagram for the project",
+      "resolved": true,
+      "createdAt": 1772534749765
+    },
+    {
+      "id": "422c361b-5e08-4f09-9a8c-b97d8659209c",
+      "type": "suggestion",
+      "content": "Use SQLite as the database for the project",
+      "resolved": false,
+      "createdAt": 1772534812022
+    }
+  ]
 }
