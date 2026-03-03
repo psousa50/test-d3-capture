@@ -1,0 +1,13 @@
+{
+  "meeting": {
+    "id": "3dc93a40-53f1-4ed6-a5f9-1dce2d1e251c",
+    "project_id": "8623bce8-ab04-473f-858d-464a3bdfd950",
+    "feature_id": null,
+    "started_at": 1772533763332,
+    "ended_at": null,
+    "status": "active"
+  },
+  "chunks": [],
+  "documents": [],
+  "guidance": []
+}
