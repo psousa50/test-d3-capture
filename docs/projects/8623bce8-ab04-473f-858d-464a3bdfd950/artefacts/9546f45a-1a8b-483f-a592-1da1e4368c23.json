@@ -1,0 +1,9 @@
+{
+  "id": "9546f45a-1a8b-483f-a592-1da1e4368c23",
+  "project_id": "8623bce8-ab04-473f-858d-464a3bdfd950",
+  "feature_id": null,
+  "type": "diagram:high-level-architecture",
+  "name": "High Level Architecture",
+  "content": "graph LR\n    A[\"User<br/>(Financial Manager)\"] -->|Accesses| B[\"NextJS<br/>Frontend Website\"]\n    B -->|API Requests| C[\"Node Server<br/>Backend\"]\n    C -->|Query/Store| D[\"PostgreSQL<br/>Database\"]\n    B -->|Displays| E[\"Bank Statements<br/>Management UI\"]\n    C -->|Processes| F[\"Statement Data<br/>Processing Logic\"]\n    D -->|Stores| G[\"Bank Statements<br/>Records\"]\n    E -->|Manages| G\n    F -->|Analyzes| G",
+  "updated_at": 1772534752133
+}
