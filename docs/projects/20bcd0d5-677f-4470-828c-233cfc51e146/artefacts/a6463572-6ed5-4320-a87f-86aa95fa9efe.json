@@ -4,6 +4,6 @@
   "feature_id": "49b783bf-7ad7-41fa-91f1-e726821b6a67",
   "type": "diagram:share-transaction-flow",
   "name": "Share Transaction Flow",
-  "content": "graph TD\n    A[User Selects Accounts to Share] -->|Choose one or more accounts| B[Enter Recipient Email]\n    B -->|Validate email format| C{Email Valid?}\n    C -->|No| D[Show Error Message]\n    D -->|Retry| B\n    C -->|Yes| E[Confirm Share Action]\n    E -->|User confirms| F[System Creates Share Record with Account Access]\n    F -->|Send notification| G[Email Recipient]\n    G -->|Recipient logs in| H[View Menu Option for Shared Accounts]\n    H -->|Access shared accounts| I[Display All Transactions from Shared Accounts]\n    I -->|Read-only access| J[User Views Own + Shared Transactions Combined]\n    J -->|Own transactions + Shared account transactions| K[End]",
-  "updated_at": 1772719540335
+  "content": "graph TD\n    A[User Selects Accounts to Share] -->|Choose one or more accounts| B[Enter Recipient Email]\n    B -->|Validate email format| C{Email Valid?}\n    C -->|No| D[Show Error Message]\n    D -->|Retry| B\n    C -->|Yes| E[Confirm Share Action]\n    E -->|User confirms| F[System Creates Share Record with Account Access]\n    F -->|Send notification| G[Email Recipient]\n    G -->|Recipient logs in| H[View Menu Option for Shared Accounts]\n    H -->|Access shared accounts| I[Display All Transactions from Shared Accounts]\n    I -->|Read-only access to all transactions in shared accounts| J[User Views Own Transactions + All Transactions from Shared Accounts]\n    J -->|All transactions from shared accounts visible| K[End]",
+  "updated_at": 1772719556032
 }
