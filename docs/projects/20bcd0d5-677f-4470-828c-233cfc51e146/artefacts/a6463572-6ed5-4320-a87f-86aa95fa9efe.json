@@ -1,0 +1,9 @@
+{
+  "id": "a6463572-6ed5-4320-a87f-86aa95fa9efe",
+  "project_id": "20bcd0d5-677f-4470-828c-233cfc51e146",
+  "feature_id": "49b783bf-7ad7-41fa-91f1-e726821b6a67",
+  "type": "diagram:share-transaction-flow",
+  "name": "Share Transaction Flow",
+  "content": "graph TD\n    A[User Selects Transactions] -->|Choose transactions to share| B[Enter Recipient Email]\n    B -->|Validate email format| C{Email Valid?}\n    C -->|No| D[Show Error Message]\n    D -->|Retry| B\n    C -->|Yes| E[Confirm Share Action]\n    E -->|User confirms| F[System Creates Share Record]\n    F -->|Send notification| G[Email Recipient]\n    G -->|Recipient logs in| H[View Menu Option]\n    H -->|Access shared transactions| I[Display Shared Transactions in UI]\n    I -->|Read-only access| J[User Views Combined Transactions]\n    J -->|Own transactions + Shared| K[End]",
+  "updated_at": 1772719464808
+}
