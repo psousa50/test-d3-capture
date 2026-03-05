@@ -1,0 +1,9 @@
+{
+  "id": "8eca6828-0bb3-4a7e-a8f6-d31e013e16ce",
+  "project_id": "20bcd0d5-677f-4470-828c-233cfc51e146",
+  "feature_id": "49b783bf-7ad7-41fa-91f1-e726821b6a67",
+  "type": "diagram:data-model",
+  "name": "Data Model",
+  "content": "erDiagram\n    USER ||--o{ TRANSACTION : owns\n    USER ||--o{ SHARED_TRANSACTION : shares\n    USER ||--o{ ACCOUNT : has\n    TRANSACTION ||--|| ACCOUNT : belongs_to\n    SHARED_TRANSACTION ||--|| TRANSACTION : references\n    SHARED_TRANSACTION ||--|| USER : shared_with\n\n    USER {\n        int user_id PK\n        string email\n        string name\n    }\n\n    ACCOUNT {\n        int account_id PK\n        int user_id FK\n        string account_name\n        decimal balance\n    }\n\n    TRANSACTION {\n        int transaction_id PK\n        int user_id FK\n        int account_id FK\n        decimal amount\n        string description\n        datetime date\n    }\n\n    SHARED_TRANSACTION {\n        int shared_id PK\n        int transaction_id FK\n        int shared_by_user_id FK\n        int shared_with_user_id FK\n        string permission_level\n        datetime shared_date\n    }",
+  "updated_at": 1772719468558
+}
