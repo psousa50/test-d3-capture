@@ -4,10 +4,894 @@
     "project_id": "20bcd0d5-677f-4470-828c-233cfc51e146",
     "feature_id": "49b783bf-7ad7-41fa-91f1-e726821b6a67",
     "started_at": 1772715821833,
-    "ended_at": null,
-    "status": "active"
+    "ended_at": 1772815040383,
+    "status": "completed"
   },
-  "chunks": [],
+  "chunks": [
+    {
+      "id": "372eb9b0-46b3-4fec-87bf-a479679c726f",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "So I want to",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718847712
+    },
+    {
+      "id": "6b49dcee-6e85-44b2-ab8e-5409220c8092",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "implement a feature that",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718851309
+    },
+    {
+      "id": "123ea57c-c17c-4699-933a-1ea4bb440424",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "allows users to share their transactions with",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718855167
+    },
+    {
+      "id": "9567eb62-a2e0-4acd-9aa8-ead1111e5e18",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "other users.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718857226
+    },
+    {
+      "id": "003386b0-2e15-44e3-b015-2dc94225b8bb",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "They can share all the transactions or",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718863155
+    },
+    {
+      "id": "b4ea7006-baa7-4e64-b252-1525efb70da0",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "only some accounts.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718865954
+    },
+    {
+      "id": "3349d1c9-1faa-435e-9a74-87c47ade6a5a",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "Of their transactions.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718870810
+    },
+    {
+      "id": "ab07a21e-7f2f-40bb-a699-39da4633811b",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "And they can share multiple things",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718878497
+    },
+    {
+      "id": "e3e898c3-a803-46be-86d2-1c0e019de2a5",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "in reading right",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718881890
+    },
+    {
+      "id": "35beeb46-7508-411b-9cc8-602c18f95c10",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "permissions so they can they can share",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718884889
+    },
+    {
+      "id": "5cadbf0d-260f-4c0e-96ae-ee9a73c33a69",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "an account with with permissions, another account with read write permissions.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718889768
+    },
+    {
+      "id": "d3126220-0474-4593-a8e5-e2fbbeba4a67",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "All the accounts with read permissions, stuff like that.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718893636
+    },
+    {
+      "id": "2f08c017-ffaa-40c1-962f-53933c87f471",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "The sharing will be by email.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718921500
+    },
+    {
+      "id": "2ca1ac13-6ea5-4c5d-9c0e-18f8096b43a3",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "So",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718924342
+    },
+    {
+      "id": "f132ec61-c991-4a36-8b38-6189cfc0e582",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "when the user logs in,",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718925856
+    },
+    {
+      "id": "2ea408b4-2f42-45ce-87ae-e5d82da45253",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "the",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718926369
+    },
+    {
+      "id": "0ac8f38e-ee5e-4845-93d0-e59b4ef1bc1f",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "there should be an option",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718929440
+    },
+    {
+      "id": "30612ee4-e05c-45c0-9c63-9e9d7737ad8f",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "in the menu",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718930967
+    },
+    {
+      "id": "c65da885-5ada-464e-b895-cac13a001351",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "to see",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718932574
+    },
+    {
+      "id": "1a9265dc-0fb7-4588-8c57-596a99aeb518",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "shared",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718934294
+    },
+    {
+      "id": "ce85d085-811d-49de-a8b2-fdee946a0e5b",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "information.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718936342
+    },
+    {
+      "id": "0eb2af2e-d192-45a4-8e56-8c7c2d923b2d",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "Where they can see all the",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718940702
+    },
+    {
+      "id": "5f533fe5-82e1-435b-bd8a-7dd44b1ea881",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "transactions and",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718944277
+    },
+    {
+      "id": "6acd40cb-c1af-4a3c-8a2b-75423339b3d1",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "accounts that are shared with him.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718949930
+    },
+    {
+      "id": "67468ec0-5c32-4939-80d6-64e93b4ce4c3",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "And he can select it.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718952482
+    },
+    {
+      "id": "b5f6733f-33fd-46f3-807d-8196eb0cafda",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "And then all the interface.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718956320
+    },
+    {
+      "id": "b171f9c7-a39d-4531-beb8-163734f5b253",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "Will show",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718958358
+    },
+    {
+      "id": "7bcaee05-95c5-4c90-84e5-312471ab8b53",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "or will be scoped",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718960423
+    },
+    {
+      "id": "d2607f95-3967-41cc-93be-249cff327e3c",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "to those",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718963228
+    },
+    {
+      "id": "fa049b47-0ac3-41ec-922a-af869b46fdfd",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "transactions slash accounts.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718965793
+    },
+    {
+      "id": "98ee288f-f439-4d65-acd4-95fc79e4be8c",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "Actually, the user can only see",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718988896
+    },
+    {
+      "id": "920d6229-f595-47e0-a683-3ef0de2d1ffb",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "the",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718989598
+    },
+    {
+      "id": "df8d1059-ea4d-49fe-b807-8dd512f5f94f",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "or select",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718993185
+    },
+    {
+      "id": "5ea7cba4-2901-424a-9c88-f96688176bc7",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "a transaction group that other",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718996757
+    },
+    {
+      "id": "9e160d64-5c68-4ec9-98cb-f147a0bb5721",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "users shared.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772718998305
+    },
+    {
+      "id": "9622476a-8b47-4fea-a40e-71d21cf44942",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "And then",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719003684
+    },
+    {
+      "id": "0cb96311-2676-4f2f-9b02-5dc0d15dda79",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "in the accounts in all the accounts,",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719007787
+    },
+    {
+      "id": "9f6f5ef7-d340-4019-81e1-8683e2a93482",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "selectors,",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719009311
+    },
+    {
+      "id": "ab586c53-8bb1-4b58-8a6d-49fb49df2579",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "in the UI,",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719010852
+    },
+    {
+      "id": "824750ff-b953-4e58-8be6-d836eb91b2e3",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "they will be only",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719013412
+    },
+    {
+      "id": "c861a9eb-9018-423b-b6fe-3d0c023046e8",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "you'll be able to see only the accounts that are actually",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719017531
+    },
+    {
+      "id": "4e607cc1-312e-4443-9947-8389d3df6887",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "shared with him.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719019068
+    },
+    {
+      "id": "3a5aeb28-2fb1-4d38-add5-fc1fa326329f",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "It'll be interesting to see how",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719035415
+    },
+    {
+      "id": "db3942da-adb9-4662-adcb-bc5cf0d2beab",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "this could look like in the UI.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719037473
+    },
+    {
+      "id": "11851c4c-cc3f-4395-aca0-8ac1c136cb33",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "The system doesn't need",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719089944
+    },
+    {
+      "id": "df90197c-fcca-4918-b0bd-d908a7417ffc",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "to verify the identity of users who received",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719093276
+    },
+    {
+      "id": "d3cadb42-e46e-4cad-9b94-f3c1df4dab81",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "shared transactions via they don't receive.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719097637
+    },
+    {
+      "id": "689bfe2e-8980-4f1d-8927-4e1e917f8153",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "Transactions via email.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719099424
+    },
+    {
+      "id": "71f1f207-eaa8-4404-8e7e-6811ca6089a7",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "User a",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719103502
+    },
+    {
+      "id": "0a78136e-2daf-4251-b788-0b37e4c6a93a",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "goes to the UI and says,",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719106596
+    },
+    {
+      "id": "fe0d401e-a0c2-4738-aaac-be7472ab0365",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "I want to share my transactions with",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719109151
+    },
+    {
+      "id": "ad651912-ce2d-4d6c-8c18-d4a74beed354",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "this user.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719110942
+    },
+    {
+      "id": "1ffaeb02-1746-4eaa-ae56-fbeabbe226ad",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "And it specifies the email.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719113010
+    },
+    {
+      "id": "904f9bac-58a4-4327-bf0b-9ac2abde474b",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "So",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719114267
+    },
+    {
+      "id": "5fd23fa2-c40b-460c-bc8d-465cb7fce703",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "From that moment on, when that user logs in,",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719117109
+    },
+    {
+      "id": "7beab603-6a39-44ac-80b3-827369611bc5",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "he can see that",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719118623
+    },
+    {
+      "id": "06e94c07-9d60-4bb2-9e0c-5e1e40a3282a",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "it has some",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719120168
+    },
+    {
+      "id": "608d566d-ea05-4ec1-9fc2-13272ccb4e2c",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "shared transaction that he can actually see.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719123001
+    },
+    {
+      "id": "c0361d70-97c7-46a5-b0bc-435b1ff6a4ca",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "Actually, I think I'm gonna remove the",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719147845
+    },
+    {
+      "id": "ab0a62f8-d423-4fe5-b1b7-3eb9c5d3d705",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "read and write permissions.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719150370
+    },
+    {
+      "id": "54855c2d-cb26-4507-9c75-ed53d43f0f01",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "It's always read permissions. There is no write permissions.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719155239
+    },
+    {
+      "id": "e9fec369-0042-438a-9891-580752cd84fb",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "Share means",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719157542
+    },
+    {
+      "id": "53427195-36c3-4c8e-815d-b13b2c7af789",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "the user can see the transactions.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719159346
+    },
+    {
+      "id": "38a2f026-d42c-4d90-8ec1-ee905d5c973c",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "I don't understand the question of different",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719220583
+    },
+    {
+      "id": "6a315078-786e-49b6-83a0-0c0a6417cc7e",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "permissions. There are no different permissions now.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719221064
+    },
+    {
+      "id": "43eb4c6b-942f-424f-82ff-c39625bd8fc0",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "It's always me.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719227460
+    },
+    {
+      "id": "c5a661de-edbd-466b-bd7a-be5834ac553e",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "There are no users with different access levels.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719329192
+    },
+    {
+      "id": "f22ebb95-2e1e-408b-be5d-a59183dac0ab",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "All the same.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719330753
+    },
+    {
+      "id": "77f85f4a-d8a4-472d-aac5-fedc05f487e5",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "Sharing means",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719339169
+    },
+    {
+      "id": "1b172e60-e48a-45d6-982f-e75807c6ad81",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "a user can see the transactions in the UI.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719344049
+    },
+    {
+      "id": "de006d8d-2d07-4623-a43b-2ec8563ae14f",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "The shared transactions.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719346859
+    },
+    {
+      "id": "7b45db23-aea8-4b07-a997-b1777ce7cf87",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "Not only",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719347876
+    },
+    {
+      "id": "bdc41bb7-8203-41f8-a645-9a78ed00f1d1",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "his own, but also the shared ones.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719350456
+    },
+    {
+      "id": "dd620c7f-41ba-4016-a5a0-64c7d48fa4d4",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "GDPR is not needed here.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719365760
+    },
+    {
+      "id": "b5e27373-ceec-4115-8f88-a7fe60b61ac7",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "I don't care.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719369594
+    },
+    {
+      "id": "1e74e4d9-fb1d-4a45-9457-1158d6731c01",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "Can we see some diagrams for this?",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719456654
+    },
+    {
+      "id": "01cfeed1-d947-4f7d-86f5-5ca1198120d3",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "No. This is wrong.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719501676
+    },
+    {
+      "id": "19e048e8-261a-4c9f-84e6-89dbddea766f",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "You're not sharing",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719503511
+    },
+    {
+      "id": "956bcc32-f419-4a80-9649-531ef098577f",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "individual transactions. We are",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719508381
+    },
+    {
+      "id": "02ff03eb-966a-49bf-897b-7e065a1a578a",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "giving",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719510359
+    },
+    {
+      "id": "96641f59-3ef4-4c81-b4a1-43a5ea70b0ca",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "other users",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719512916
+    },
+    {
+      "id": "32a6bc4a-17e8-4c6e-b3db-fe247480e90a",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "the right to see",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719515228
+    },
+    {
+      "id": "7c29de18-63e2-4b3e-a00c-65edfb79225f",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "my transactions.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719518352
+    },
+    {
+      "id": "33d9a48f-8b3e-4027-9c3d-087ecf44ecbe",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "And the only restriction is per account.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719524015
+    },
+    {
+      "id": "5a05e7fc-049a-4d98-976f-3341511a608e",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "So",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719525000
+    },
+    {
+      "id": "e87e7ef9-df1a-4743-80e6-96dcfb5a9dce",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "the other user can",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719526577
+    },
+    {
+      "id": "b994606e-7962-457e-bc55-8f04f79f1b96",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "see",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719528133
+    },
+    {
+      "id": "e9488b1e-2fbb-4f75-9ca7-fc64f8fcf7cc",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "all of my transactions",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719530350
+    },
+    {
+      "id": "843c1092-2135-46af-9f93-ba592d0cf7a7",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "or maybe",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719531650
+    },
+    {
+      "id": "9f68634b-a41b-4df9-9d36-5861de269454",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "only all the transactions of a group of accounts.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719536010
+    },
+    {
+      "id": "20efac28-e3ab-49d3-aea6-084d008ccdd3",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "It's not my transaction. It's everything.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719538821
+    },
+    {
+      "id": "586ebeb1-79bf-4e60-8ed5-af4d170d2d32",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "Nova, what do you think of the data model?",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719569304
+    },
+    {
+      "id": "b9bfeec7-ed3b-44ab-b95b-f035c315b895",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "Could we",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719572354
+    },
+    {
+      "id": "ca36970f-3363-4343-9040-623726a013f1",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "do something different, like",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719574961
+    },
+    {
+      "id": "bed4e68d-fc9e-46fe-af39-f87902961147",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "sharing all transactions by default?",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719577760
+    },
+    {
+      "id": "ad74d92c-1219-49d5-8f98-0e216cb5d4ce",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "Meaning all accounts and only",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719581571
+    },
+    {
+      "id": "d50d534e-4b79-41b2-bb08-91b99a6e0b4b",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "consider",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719583363
+    },
+    {
+      "id": "927410d7-f20a-4b31-89b0-ff7843878387",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "the",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719583969
+    },
+    {
+      "id": "da048920-e383-4f49-92c5-113ef772b117",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "specific accounts as a special case.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719586423
+    },
+    {
+      "id": "f8e10428-a33c-4152-b343-10a9ae93195f",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "That's a smart idea actually. Yes, I think defaulting to \"all accounts\" and treating selective sharing as the special case would be cleaner and more intuitive. Right now the model requires explicit account-level permissions, but if we flip it — the default share grant gives access to all user transactions across all accounts unless specific accounts are excluded — we'd reduce complexity. We could add an optional `excluded_accounts` field to `ACCOUNT_SHARE` instead of the current approach, or have a separate exclusion rule. It would also align better with the mental model: \"I'm sharing with you\" rather than \"I'm choosing which specific things you can see.\"\n\nWant me to sketch out how that would look in the data model?",
+      "speaker": "Nova",
+      "timestamp": 1772719595607
+    },
+    {
+      "id": "579aab81-a9b5-484d-9b51-11485e4af463",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "Update the data model to reflect this.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719633352
+    },
+    {
+      "id": "112595fc-6ce8-4606-840c-af4b7508b5d2",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "We can remove the access type. It's always read only.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719656573
+    },
+    {
+      "id": "c464f82d-ddc0-483e-8a95-78561632e37d",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "And how the UI",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719701473
+    },
+    {
+      "id": "7769a65a-a626-4626-8536-aad51ce14411",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "look?",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719702127
+    },
+    {
+      "id": "66d3906e-e660-4b4d-abcf-92f76ef02329",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "Like?",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719702892
+    },
+    {
+      "id": "cf5378e0-6c18-4749-b912-9428b7ac854a",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "Can we have a",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719941938
+    },
+    {
+      "id": "5af7607a-6791-494e-a07e-17080831ffe5",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "UI",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719944022
+    },
+    {
+      "id": "380638b3-1c41-4ab1-96c0-148db37b094c",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "diagram just showing how the user can",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719947614
+    },
+    {
+      "id": "85b21abe-60a8-4585-ae5a-51bd2fedf8a5",
+      "meeting_id": "fdd45b67-6fef-4280-963a-67bee60fce5c",
+      "text": "share transactions.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1772719949633
+    }
+  ],
   "documents": [],
-  "guidance": []
+  "guidance": [
+    {
+      "id": "3eaa6848-d2ce-4a98-b47d-5cc8e0545e48",
+      "type": "question",
+      "content": "What are the security and privacy implications of allowing users to share their transactions with other users?",
+      "resolved": true,
+      "createdAt": 1772718861877
+    },
+    {
+      "id": "791c031f-3241-4ba5-bfdf-f12d572b2e0e",
+      "type": "question",
+      "content": "How will users be able to specify which transactions or accounts to share, and what permissions to assign to each shared item?",
+      "resolved": true,
+      "createdAt": 1772718891656
+    },
+    {
+      "id": "21d5a654-7955-4b35-9d0d-eee6c8a8716d",
+      "type": "question",
+      "content": "How will the system handle permission conflicts or overlapping permissions when a user shares multiple accounts with different permissions?",
+      "resolved": true,
+      "createdAt": 1772718955880
+    },
+    {
+      "id": "80c92a89-f208-4364-b64e-85aa4e53ad2d",
+      "type": "question",
+      "content": "How will the system authenticate and verify the identity of users who receive shared transactions via email?",
+      "resolved": true,
+      "createdAt": 1772718970912
+    },
+    {
+      "id": "d41d537c-9e67-4d27-8fe1-da0b7d500a40",
+      "type": "question",
+      "content": "What is the scope of the 'read' and 'write' permissions when sharing accounts, and how will they affect the shared transactions?",
+      "resolved": true,
+      "createdAt": 1772718970912
+    },
+    {
+      "id": "5be6ea6d-5317-4ba1-a8ce-599b4bf91f36",
+      "type": "question",
+      "content": "How will the system prevent unauthorized access to shared transactions, especially considering the sharing will be by email?",
+      "resolved": true,
+      "createdAt": 1772719002930
+    },
+    {
+      "id": "cea83745-8919-4daf-b71d-eb2a345ed7a0",
+      "type": "question",
+      "content": "How will the UI handle and display the shared transactions and accounts based on the permissions granted to the recipient?",
+      "resolved": true,
+      "createdAt": 1772719017794
+    },
+    {
+      "id": "6bca383e-6610-4636-94f7-1fd828d82ee9",
+      "type": "question",
+      "content": "How will the system handle the user interface and user experience for shared transactions and accounts, particularly in terms of displaying and selecting shared information?",
+      "resolved": true,
+      "createdAt": 1772719097735
+    },
+    {
+      "id": "2caf5af0-38d9-44fc-945b-e2d825db2d10",
+      "type": "question",
+      "content": "How will the system handle permission conflicts or overlapping permissions when a user shares multiple accounts?",
+      "resolved": true,
+      "createdAt": 1772719154700
+    },
+    {
+      "id": "24faf7dd-9b57-4ab9-a2cd-a6b840a67bce",
+      "type": "question",
+      "content": "How will the shared transactions be displayed in the UI, and what will the user experience look like?",
+      "resolved": true,
+      "createdAt": 1772719240460
+    },
+    {
+      "id": "f2552a9c-42bb-4ee4-9bb4-205a53e9006e",
+      "type": "question",
+      "content": "How will the system handle users who do not have an account when trying to access shared transactions via the email invitation?",
+      "resolved": false,
+      "createdAt": 1772719350272
+    },
+    {
+      "id": "5d7e7839-6dbf-4abb-aa57-7169064f0e85",
+      "type": "question",
+      "content": "What does 'sharing' mean in the context of this feature, and how will it be implemented technically?",
+      "resolved": true,
+      "createdAt": 1772719508040
+    },
+    {
+      "id": "b041af6a-4ec8-45a5-a512-7311474c2474",
+      "type": "question",
+      "content": "How will the system restrict access to shared transactions to only those accounts or account groups that the owner has chosen to share?",
+      "resolved": true,
+      "createdAt": 1772719537926
+    },
+    {
+      "id": "1a1ff1e5-0bd8-44eb-80f6-6060c2f8fd3a",
+      "type": "question",
+      "content": "Can diagrams be provided to better illustrate the sharing feature's functionality and restrictions?",
+      "resolved": true,
+      "createdAt": 1772719553149
+    },
+    {
+      "id": "70b626f1-7885-4529-9d70-54c7f14e8c4b",
+      "type": "question",
+      "content": "Should the system provide an option to share all transactions by default, treating specific account sharing as a special case?",
+      "resolved": true,
+      "createdAt": 1772719591172
+    },
+    {
+      "id": "944db2fe-55d7-4687-98ee-3157552d3626",
+      "type": "question",
+      "content": "What should the UI look like for the sharing feature?",
+      "resolved": true,
+      "createdAt": 1772719707285
+    },
+    {
+      "id": "242e067e-1d44-4424-aa84-9523dd1ead7f",
+      "type": "suggestion",
+      "content": "Create a UI diagram for the sharing feature to visualize how users can share transactions",
+      "resolved": false,
+      "createdAt": 1772719954076
+    }
+  ]
 }
