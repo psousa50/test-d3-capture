@@ -7,7 +7,128 @@
     "ended_at": null,
     "status": "active"
   },
-  "chunks": [],
+  "chunks": [
+    {
+      "id": "f1346b02-c0fe-4157-86f2-e8f4577c3d5c",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "Okay. So it looks like",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227755543
+    },
+    {
+      "id": "be65b855-74da-41bd-be76-bba0c4fbb997",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "we lost the",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227758359
+    },
+    {
+      "id": "0443a135-c7ba-4005-8d8f-a5934176fc19",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "previous chat, but we all have a good context.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227762219
+    },
+    {
+      "id": "db28164e-56dc-408f-a045-0be9e3fbde2d",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "So let's try to summarize it.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227765290
+    },
+    {
+      "id": "763b6bfc-2dfd-4642-a47f-cdfd156fa40f",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "We want to build",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227767623
+    },
+    {
+      "id": "a2683924-1c09-48c6-a6f2-952f32004cfa",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "a",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227768435
+    },
+    {
+      "id": "9694562d-69d1-4672-9961-9399f15037a8",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "two things.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227769645
+    },
+    {
+      "id": "0860f8d1-b65d-4885-be2e-da12f4e3b8a2",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "A trading bot for Binance",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227777844
+    },
+    {
+      "id": "0025c41c-1ef1-4268-beba-00db1bbe949a",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "That",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227784490
+    },
+    {
+      "id": "eb6bae05-315f-4d4c-8904-9c1d72bc3e8e",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "run on a server",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227788601
+    },
+    {
+      "id": "638354ca-4fb8-4d4b-abda-bd7d30fb217f",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "completely independent.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227790387
+    },
+    {
+      "id": "46ca28be-1100-4da7-93bd-a34b7b78fdf2",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "So",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227791404
+    },
+    {
+      "id": "573b5e0d-a099-4403-abf9-4647a766df54",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "It has logs and hooks and whatever",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227799341
+    },
+    {
+      "id": "bd863926-6fc1-455e-a549-73144c4f28ee",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "and also an API",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227800367
+    },
+    {
+      "id": "08ae7c57-07ab-4565-85a7-fbbc55b60923",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "for",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227804464
+    }
+  ],
   "documents": [],
-  "guidance": []
+  "guidance": [
+    {
+      "id": "35d92a1b-12c5-4eb9-8cae-38d5e950aff0",
+      "type": "question",
+      "content": "What are the specific requirements and goals for the Binance trading bot?",
+      "resolved": false,
+      "createdAt": 1773227789103
+    },
+    {
+      "id": "ee8083fd-826a-4744-8e20-eb70b8ec3fe9",
+      "type": "question",
+      "content": "What kind of server infrastructure will be used to host the trading bot?",
+      "resolved": false,
+      "createdAt": 1773227789103
+    }
+  ]
 }
