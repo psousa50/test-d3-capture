@@ -49,6 +49,34 @@
       "text": "can you update it?",
       "speaker": "Pedro Sousa",
       "timestamp": 1773230310360
+    },
+    {
+      "id": "0daa346e-1432-42db-a87b-c493e266c836",
+      "meeting_id": "f155335a-ce0e-4e3c-8978-be75c9796ce1",
+      "text": "Noah, what do you think about this?",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773237718934
+    },
+    {
+      "id": "7e1ba834-c81d-41e1-a297-a8683924eaa8",
+      "meeting_id": "f155335a-ce0e-4e3c-8978-be75c9796ce1",
+      "text": "Do you really need",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773237721023
+    },
+    {
+      "id": "7ee17401-b0f0-43f9-a516-e2187b5e0b7a",
+      "meeting_id": "f155335a-ce0e-4e3c-8978-be75c9796ce1",
+      "text": "we need to separate",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773237722789
+    },
+    {
+      "id": "5abf0741-bc46-46f0-892c-f70955f3d969",
+      "meeting_id": "f155335a-ce0e-4e3c-8978-be75c9796ce1",
+      "text": "the trading bot from the UI.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773237728388
     }
   ],
   "documents": [],
