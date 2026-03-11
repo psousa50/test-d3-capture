@@ -7,7 +7,30 @@
     "ended_at": null,
     "status": "active"
   },
-  "chunks": [],
+  "chunks": [
+    {
+      "id": "7e3cbed2-08f9-4532-8841-e8dac98fe3a0",
+      "meeting_id": "f155335a-ce0e-4e3c-8978-be75c9796ce1",
+      "text": "So let's talk about the goal for this. At the moment. So system it's supposed to be a personal project.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773228690819
+    },
+    {
+      "id": "4382764c-4a81-4c3e-9f81-2f8fa6f26787",
+      "meeting_id": "f155335a-ce0e-4e3c-8978-be75c9796ce1",
+      "text": "Not a multi tenant or multi user",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773228705153
+    }
+  ],
   "documents": [],
-  "guidance": []
+  "guidance": [
+    {
+      "id": "4207ddb3-4e1f-472c-85f1-eb82ab197e6e",
+      "type": "question",
+      "content": "What is the specific goal of the personal project?",
+      "resolved": false,
+      "createdAt": 1773228695084
+    }
+  ]
 }
