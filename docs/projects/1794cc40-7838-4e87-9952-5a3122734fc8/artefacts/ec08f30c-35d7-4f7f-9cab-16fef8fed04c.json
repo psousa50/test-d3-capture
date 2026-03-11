@@ -1,0 +1,9 @@
+{
+  "id": "ec08f30c-35d7-4f7f-9cab-16fef8fed04c",
+  "project_id": "1794cc40-7838-4e87-9952-5a3122734fc8",
+  "feature_id": null,
+  "type": "diagram:architecture-diagram",
+  "name": "Architecture Diagram",
+  "content": "C4Context\n    title Binance Portfolio Manager - System Architecture\n    Person(user, \"Binance User\", \"Monitors portfolio and trading\")\n    System(dashboard, \"Dashboard Website\", \"Portfolio view and trading interface\")\n    System(tradingBot, \"Trading Bot\", \"Automated trading on server\")\n    System_Ext(binanceAPI, \"Binance API\", \"Real-time market and portfolio data\")\n    Rel(user, dashboard, \"Views portfolio and trades\")\n    Rel(dashboard, binanceAPI, \"Fetches portfolio data\")\n    Rel(dashboard, tradingBot, \"Queries logs and metrics\")\n    Rel(tradingBot, binanceAPI, \"Executes trades and fetches data\")\n    Rel(tradingBot, dashboard, \"Exposes API with trade history\")",
+  "updated_at": 1773228613745
+}
