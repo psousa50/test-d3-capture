@@ -245,6 +245,27 @@
       "text": "That's the whole idea.",
       "speaker": "Pedro Sousa",
       "timestamp": 1773227859174
+    },
+    {
+      "id": "05f87794-8f5f-4181-8c7f-f4c4414f9999",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "It'd be nice to have",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227900680
+    },
+    {
+      "id": "4e61fea7-3047-47ee-aafd-4bfa4a5534e4",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "an diagram to show how this",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227905531
+    },
+    {
+      "id": "e789e69c-77e0-4c98-ac26-d36ad1948df3",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "could work.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227906042
     }
   ],
   "documents": [],
@@ -269,6 +290,13 @@
       "content": "What are the specifications for the dashboard API to check the trading bot's performance and last trades?",
       "resolved": false,
       "createdAt": 1773227819286
+    },
+    {
+      "id": "aa52db14-ec58-4b3f-9c60-4be784d9d55e",
+      "type": "suggestion",
+      "content": "Create a system diagram to illustrate the interaction between the trading bot, its API, the dashboard, and the Binance API",
+      "resolved": false,
+      "createdAt": 1773227920065
     }
   ]
 }
