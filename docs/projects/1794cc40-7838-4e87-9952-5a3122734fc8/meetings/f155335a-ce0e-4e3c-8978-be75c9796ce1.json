@@ -63,6 +63,20 @@
       "text": "That's a solid point. You're right that Next.js already gives you that natural separation with server and client layers — you *could* run the trading bot logic in the server portion and expose it via API routes to the UI. \n\nThe main question is whether you want the bot running continuously in the background (which would work if you're using serverless functions that stay warm, or a traditional server), or if you need it decoupled further for independent scaling, easier testing, or the ability to restart one without affecting the other. If this is a straightforward Next.js app where the bot runs as part of the same process, then yes, keeping it simpler makes sense. But if you find the bot needs to run independently from request/response cycles, or you want to scale them separately later, that's when the full separation becomes useful.\n\nWhat's the deployment model you're leaning toward?",
       "speaker": "Nova",
       "timestamp": 1773242472713
+    },
+    {
+      "id": "aa3e7060-a7f4-4ada-a6bd-ccef1e62b67c",
+      "meeting_id": "f155335a-ce0e-4e3c-8978-be75c9796ce1",
+      "text": "Nova, I'm planning to use this for my own only, at least for now. We can always split it later if needed, right?",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773242585957
+    },
+    {
+      "id": "fd3b3b58-e55b-4195-9689-727f336d4e72",
+      "meeting_id": "f155335a-ce0e-4e3c-8978-be75c9796ce1",
+      "text": "Absolutely, that makes total sense. If it's for personal use right now, keeping it monolithic in Next.js is a pragmatic choice—you get the server-side logic and UI in one place, faster iteration, simpler deployment. You can always refactor it into separate services later if you need to scale it, share it, or run the bot independently. Starting simple and splitting when the pain points appear is a solid approach.",
+      "speaker": "Nova",
+      "timestamp": 1773242588280
     }
   ],
   "documents": [],
@@ -101,6 +115,13 @@
       "content": "Is separating the trading bot from the UI necessary in a NextJS application, where the server can already serve as the trading bot and API for the UI?",
       "resolved": true,
       "createdAt": 1773242209773
+    },
+    {
+      "id": "ba04c3f0-c963-45b1-95fc-12b8b87072d0",
+      "type": "question",
+      "content": "Does integrating the trading bot with the NextJS server provide sufficient separation of concerns for the current use case?",
+      "resolved": false,
+      "createdAt": 1773242586334
     }
   ]
 }
