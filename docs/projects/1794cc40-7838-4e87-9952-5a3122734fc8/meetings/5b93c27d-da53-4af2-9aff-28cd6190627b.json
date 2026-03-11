@@ -268,18 +268,18 @@
       "timestamp": 1773227906042
     },
     {
-      "id": "a6cf3bef-3a3e-4daf-ab0f-24eee9830901",
-      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
-      "text": "Can you build that diagram?",
-      "speaker": "Pedro Sousa",
-      "timestamp": 1773227992860
-    },
-    {
       "id": "bbc476e1-8917-4911-88c6-022e31535ca7",
       "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
       "text": "Can you build that diagram?",
       "speaker": "Pedro Sousa",
       "timestamp": 1773228577020
+    },
+    {
+      "id": "4f364bf3-8ed0-4b7f-b6d2-d7ec64adf37c",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "Can you build that diagram?",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773228610096
     }
   ],
   "documents": [],
