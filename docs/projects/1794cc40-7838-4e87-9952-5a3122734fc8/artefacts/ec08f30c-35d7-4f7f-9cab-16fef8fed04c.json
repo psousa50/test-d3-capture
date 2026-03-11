@@ -4,6 +4,6 @@
   "feature_id": null,
   "type": "diagram:architecture-diagram",
   "name": "Architecture Diagram",
-  "content": "C4Context\n    title Binance Portfolio Manager - System Architecture\n    Person(user, \"Binance User\", \"Monitors portfolio and trading\")\n    System(webapp, \"Next.js Application\", \"Dashboard UI and trading bot server\")\n    System_Ext(binanceAPI, \"Binance API\", \"Real-time market and portfolio data\")\n    Rel(user, webapp, \"Views portfolio and trades\")\n    Rel(webapp, binanceAPI, \"Executes trades and fetches data\")",
-  "updated_at": 1773237758524
+  "content": "C4Context\n    title Binance Portfolio Manager - System Architecture\n    Person(user, \"Binance User\", \"Monitors portfolio and trading\")\n    System(webapp, \"Next.js Application\", \"Dashboard UI with integrated trading bot server\")\n    System_Ext(binanceAPI, \"Binance API\", \"Real-time market and portfolio data\")\n    Rel(user, webapp, \"Views portfolio and executes trades\")\n    Rel(webapp, binanceAPI, \"Fetches data and executes trades\")",
+  "updated_at": 1773237863659
 }
