@@ -112,6 +112,139 @@
       "text": "for",
       "speaker": "Pedro Sousa",
       "timestamp": 1773227804464
+    },
+    {
+      "id": "3a129fea-e59a-4541-ae44-1e671a7778fa",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "the dashboard to check how is it going.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227809846
+    },
+    {
+      "id": "fdccc91f-cc3b-4234-a508-9eda6473266d",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "Last",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227812397
+    },
+    {
+      "id": "9a3c0fff-5be7-457c-8f36-f8647809983a",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "trades.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227814457
+    },
+    {
+      "id": "2dfd0ba6-0c31-41ec-bd28-30b8bffa4dce",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "And stuff like that.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227822184
+    },
+    {
+      "id": "5362b25a-68e8-423a-9fdb-f03ff78d72bc",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "The other part is the dashboard itself.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227825516
+    },
+    {
+      "id": "f7c4d4cc-4e3f-49d0-b4eb-645c27cc4493",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "So",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227826518
+    },
+    {
+      "id": "17348a8f-8606-4a67-a4cd-25d3c6ccbadf",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "So it can go to the Binance API to",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227829904
+    },
+    {
+      "id": "89f837aa-69b8-40c3-ad78-30abbb7077e9",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "display",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227832452
+    },
+    {
+      "id": "6f33b431-b612-43c1-a5bd-fc96422e65fe",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "my current portfolio",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227835546
+    },
+    {
+      "id": "193f286a-9b33-49db-b76a-9ff3e4bb2753",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "current",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227836302
+    },
+    {
+      "id": "fa8602c9-2720-424a-b095-284a62d7518d",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "value with",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227839636
+    },
+    {
+      "id": "edcb8678-6e90-4480-a586-84a2bee77a23",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "coins that I have.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227841951
+    },
+    {
+      "id": "0746d264-874b-42dc-9aa0-21f7722ad0e9",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "Some nice charts,",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227844242
+    },
+    {
+      "id": "19258409-fbd6-4e5b-8e19-24a51e60d928",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "stuff like that.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227845536
+    },
+    {
+      "id": "882b3413-840a-4205-89f6-be9a6f9fe82d",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "And also goes to the",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227847842
+    },
+    {
+      "id": "c81c931d-8047-44ca-96ad-d73d54c12f21",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "trading bot API",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227850138
+    },
+    {
+      "id": "f5fe8d54-4115-41f1-8851-c27a307c7bdd",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "so that I can",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227853460
+    },
+    {
+      "id": "669f18b0-71f6-454d-8c9b-0c7de95d8a30",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "see how is it going, what it's doing.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227856032
+    },
+    {
+      "id": "791f6a2b-454f-4ed8-ac83-0939cca0451a",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "That's the whole idea.",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227859174
     }
   ],
   "documents": [],
@@ -120,7 +253,7 @@
       "id": "35d92a1b-12c5-4eb9-8cae-38d5e950aff0",
       "type": "question",
       "content": "What are the specific requirements and goals for the Binance trading bot?",
-      "resolved": false,
+      "resolved": true,
       "createdAt": 1773227789103
     },
     {
@@ -129,6 +262,13 @@
       "content": "What kind of server infrastructure will be used to host the trading bot?",
       "resolved": false,
       "createdAt": 1773227789103
+    },
+    {
+      "id": "272bd036-d39e-4b0b-890a-653b4d577f3e",
+      "type": "question",
+      "content": "What are the specifications for the dashboard API to check the trading bot's performance and last trades?",
+      "resolved": false,
+      "createdAt": 1773227819286
     }
   ]
 }
