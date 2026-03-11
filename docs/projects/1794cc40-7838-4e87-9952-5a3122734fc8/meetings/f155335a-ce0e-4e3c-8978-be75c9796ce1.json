@@ -51,11 +51,11 @@
       "timestamp": 1773230310360
     },
     {
-      "id": "da2b05de-6c36-4b13-b861-f74128cf3b19",
+      "id": "ba32673c-ad3c-48ca-8a15-80c14154adc0",
       "meeting_id": "f155335a-ce0e-4e3c-8978-be75c9796ce1",
       "text": "Nova, what do you think about this? Do you really need we need to separate the trading bot from the UI. Because if this is a NextJS, application, it's kind of already separated. Right? You have a server and you have a UI. So the server could the trading bot and the API to serve the UI Does it make sense?",
       "speaker": "Pedro Sousa",
-      "timestamp": 1773237751258
+      "timestamp": 1773237860651
     }
   ],
   "documents": [],
@@ -85,7 +85,7 @@
       "id": "feef9a4e-5544-4068-95c4-9a2fa29f40f4",
       "type": "question",
       "content": "Does separating the trading bot from the UI in a NextJS application provide any additional benefits beyond the existing server and UI separation?",
-      "resolved": false,
+      "resolved": true,
       "createdAt": 1773237755604
     }
   ]
