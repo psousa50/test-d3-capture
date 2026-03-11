@@ -266,6 +266,13 @@
       "text": "could work.",
       "speaker": "Pedro Sousa",
       "timestamp": 1773227906042
+    },
+    {
+      "id": "a6cf3bef-3a3e-4daf-ab0f-24eee9830901",
+      "meeting_id": "5b93c27d-da53-4af2-9aff-28cd6190627b",
+      "text": "Can you build that diagram?",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773227992860
     }
   ],
   "documents": [],
@@ -295,7 +302,7 @@
       "id": "aa52db14-ec58-4b3f-9c60-4be784d9d55e",
       "type": "suggestion",
       "content": "Create a system diagram to illustrate the interaction between the trading bot, its API, the dashboard, and the Binance API",
-      "resolved": false,
+      "resolved": true,
       "createdAt": 1773227920065
     }
   ]
