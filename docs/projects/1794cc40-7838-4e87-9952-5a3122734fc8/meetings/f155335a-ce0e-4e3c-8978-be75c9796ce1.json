@@ -51,32 +51,11 @@
       "timestamp": 1773230310360
     },
     {
-      "id": "0daa346e-1432-42db-a87b-c493e266c836",
+      "id": "da2b05de-6c36-4b13-b861-f74128cf3b19",
       "meeting_id": "f155335a-ce0e-4e3c-8978-be75c9796ce1",
-      "text": "Noah, what do you think about this?",
+      "text": "Nova, what do you think about this? Do you really need we need to separate the trading bot from the UI. Because if this is a NextJS, application, it's kind of already separated. Right? You have a server and you have a UI. So the server could the trading bot and the API to serve the UI Does it make sense?",
       "speaker": "Pedro Sousa",
-      "timestamp": 1773237718934
-    },
-    {
-      "id": "7e1ba834-c81d-41e1-a297-a8683924eaa8",
-      "meeting_id": "f155335a-ce0e-4e3c-8978-be75c9796ce1",
-      "text": "Do you really need",
-      "speaker": "Pedro Sousa",
-      "timestamp": 1773237721023
-    },
-    {
-      "id": "7ee17401-b0f0-43f9-a516-e2187b5e0b7a",
-      "meeting_id": "f155335a-ce0e-4e3c-8978-be75c9796ce1",
-      "text": "we need to separate",
-      "speaker": "Pedro Sousa",
-      "timestamp": 1773237722789
-    },
-    {
-      "id": "5abf0741-bc46-46f0-892c-f70955f3d969",
-      "meeting_id": "f155335a-ce0e-4e3c-8978-be75c9796ce1",
-      "text": "the trading bot from the UI.",
-      "speaker": "Pedro Sousa",
-      "timestamp": 1773237728388
+      "timestamp": 1773237751258
     }
   ],
   "documents": [],
@@ -101,6 +80,13 @@
       "content": "What are the specific requirements or issues with the current Context that need to be updated for the trading bot and server project?",
       "resolved": false,
       "createdAt": 1773230310822
+    },
+    {
+      "id": "feef9a4e-5544-4068-95c4-9a2fa29f40f4",
+      "type": "question",
+      "content": "Does separating the trading bot from the UI in a NextJS application provide any additional benefits beyond the existing server and UI separation?",
+      "resolved": false,
+      "createdAt": 1773237755604
     }
   ]
 }
