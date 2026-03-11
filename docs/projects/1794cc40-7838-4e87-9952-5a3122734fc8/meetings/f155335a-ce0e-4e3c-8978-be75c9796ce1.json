@@ -37,11 +37,11 @@
       "timestamp": 1773228720584
     },
     {
-      "id": "92f2cbc0-d7c1-4a63-8a63-423fa04be3ec",
+      "id": "17167698-3cec-4f6f-a00c-6dd130ce957f",
       "meeting_id": "f155335a-ce0e-4e3c-8978-be75c9796ce1",
-      "text": "Are you currently",
+      "text": "this doesnt look right in the Context\n\nBuilding two things:\nA trading bot for Binance\nThat runs on a server",
       "speaker": "Pedro Sousa",
-      "timestamp": 1773229597620
+      "timestamp": 1773230264207
     }
   ],
   "documents": [],
@@ -57,7 +57,7 @@
       "id": "e8023499-3e80-4276-b468-64b3a42303f3",
       "type": "question",
       "content": "Will the system be expanded to support multi-tenancy or multi-user functionality in the future?",
-      "resolved": false,
+      "resolved": true,
       "createdAt": 1773228734231
     }
   ]
