@@ -7,7 +7,15 @@
     "ended_at": null,
     "status": "active"
   },
-  "chunks": [],
+  "chunks": [
+    {
+      "id": "ae260e2c-b20b-4a7e-8135-e002d6d67121",
+      "meeting_id": "d7112aaa-f832-48b3-9178-8be53cde768b",
+      "text": "Okay. Let's discuss how we",
+      "speaker": "Pedro Sousa",
+      "timestamp": 1773230423086
+    }
+  ],
   "documents": [],
   "guidance": []
 }
